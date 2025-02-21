@@ -1,4 +1,4 @@
-Documentação do Banco de Dados da Escola
+Documentação do Banco de Dados da Escola <br>
 Visão Geral
 Este banco de dados simula um sistema de gestão de alunos e suas notas em uma escola. Ele é composto por duas tabelas principais: Alunos e Notas. A tabela Alunos armazena informações sobre os estudantes, enquanto a tabela Notas contém os dados de desempenho acadêmico de cada aluno.
 Estrutura do Banco de Dados
